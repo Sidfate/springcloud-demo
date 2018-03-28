@@ -28,3 +28,7 @@ port: 8764
 `Feign` 实现服务间内部的 rpc 调用
 
 port: 8765
+
+### Wiki
+
+查看具体[Wiki](https://github.com/Sidfate/springcloud-demo/wiki)

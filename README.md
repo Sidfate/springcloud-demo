@@ -21,6 +21,10 @@ port: 8762
 
 `Ribbon + RestTemplate` 实现服务间内部的 rpc 调用
 
+port: 8764
+
 ### service-feign
 
 `Feign` 实现服务间内部的 rpc 调用
+
+port: 8765

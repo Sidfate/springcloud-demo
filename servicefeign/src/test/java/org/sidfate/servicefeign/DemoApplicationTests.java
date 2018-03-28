@@ -1,4 +1,4 @@
-package org.sidfate.serviceribbon;
+package org.sidfate.servicefeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

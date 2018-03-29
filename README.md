@@ -29,6 +29,12 @@ port: 8764
 
 port: 8765
 
+### service-zuul
+
+api网关 zuul
+
+port: 8769
+
 ### Wiki
 
 查看具体[Wiki](https://github.com/Sidfate/springcloud-demo/wiki)

@@ -35,6 +35,18 @@ api网关 zuul
 
 port: 8769
 
+### config-server
+
+配置中心
+
+port: 8888
+
+### config-client
+
+配置服务提供
+
+port: 8881
+
 ### Wiki
 
 查看具体[Wiki](https://github.com/Sidfate/springcloud-demo/wiki)
